@@ -7,7 +7,7 @@ This Arduino-based program is designed for use with the **ZES ZSOM-M01** and the
 ## 🔍 Overview
 
 - The program supports **real-time current monitoring** and **logging**.
-- **Normal and abnormal current profiles** are stored in the TMR FRAMs onboard the ZSOM-M01.
+- **Normal and abnormal current profiles** are stored in the Triple Modular Redundancy (TMR) FRAMs onboard the ZSOM-M01.
 - A **Python-based GUI** (included in this repository) allows users to view or retrieve stored current profiles.
 
 ---
@@ -38,15 +38,15 @@ This Arduino-based program is designed for use with the **ZES ZSOM-M01** and the
 - Arduino IDE
 - Python 3.x
 - PySide6
-- pyqtgraph
-- pyserial
-- numpy
+- PyQtGraph
+- pySerial
+- NumPy
 
 ---
 
 ## 📜 License
 
-[MIT License](LICENSE) 
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
